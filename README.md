@@ -169,44 +169,6 @@ Pull Request checklist
 
 ---
 
-## Suggested GitHub topics (copy these into your repo's Topics)
-
-- Topic badges:
-
-![unity](https://img.shields.io/badge/unity-000?logo=unity&logoColor=white)
-![grid-based](https://img.shields.io/badge/grid--based-blueviolet)
-![strategy-game](https://img.shields.io/badge/strategy--game-teal)
-![tactics](https://img.shields.io/badge/tactics-orange)
-![game-engine](https://img.shields.io/badge/game--engine-slateblue)
-![csharp](https://img.shields.io/badge/csharp-239120?logo=csharp&logoColor=white)
-![game-development](https://img.shields.io/badge/game--development-0a0)
-![2d](https://img.shields.io/badge/2D-ff69b4)
-
-- unity
-- grid-based
-- strategy-game
-- tactics
-- game-engine
-- csharp
-- game-development
-- 2d
-
-These improve discoverability on GitHub.
-
----
-
-## Badges recommended for README
-
-- Unity version: use a static badge (already included at top)
-- License badge: included at top
-- Build/CI: add if you add GitHub Actions later
-
-Badge examples (Markdown):
-
-```
-![Unity version](https://img.shields.io/badge/Unity-2020.3%2B-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-```
 
 ---
 
